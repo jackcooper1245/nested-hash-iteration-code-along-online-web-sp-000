@@ -25,6 +25,7 @@ contacts.each do |person, data|
       end
     end
   end
+end
   remove_strawberry(contacts)
 end
   
